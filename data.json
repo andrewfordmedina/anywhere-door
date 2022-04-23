@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "",
+        "address": "",
+        "isDone": 0,
+        "type": "",
+        "price_kkb": 0,
+        "price_total": 0,
+        "travel_time": "",
+        "date": null,
+        "img": ""        
+    }
+]
